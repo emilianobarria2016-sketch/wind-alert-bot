@@ -1,0 +1,10 @@
+{
+  "name": "wind-alert-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "node-fetch": "^3.3.2"
+  }
+}
